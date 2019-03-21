@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/clean_country"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:background="#abb13636"
+        android:text="Clean unavailable countries"
+        android:textColor="#e2dfdf" />
+
+    <Button
+        android:id="@+id/all_country"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:background="#abb13636"
+        android:text="Get all countries"
+        android:textColor="#e2dfdf" />
+
+</LinearLayout>
