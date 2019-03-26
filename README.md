@@ -9,6 +9,8 @@
   - Lombok
   - Recyclerview
   - Bottom Space Bar
+  - Glide
+  - GSON
   
 Country List
 
